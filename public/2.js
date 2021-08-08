@@ -1,0 +1,1 @@
+window.prompt('你是谁')
